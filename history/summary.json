@@ -4,19 +4,19 @@
     "url": "https://sonic.wiki/",
     "icon": "https://favicons.githubusercontent.com/sonic.wiki",
     "slug": "sonicpedia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1103,
-    "timeDay": 1139,
-    "timeWeek": 1097,
-    "timeMonth": 1103,
-    "timeYear": 1103,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1105,
+    "timeDay": 1179,
+    "timeWeek": 1103,
+    "timeMonth": 1105,
+    "timeYear": 1105,
     "dailyMinutesDown": {
-      "2022-08-17": 0
+      "2022-08-17": 13
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/sonic.wiki",
     "slug": "parsoid",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 854,
     "timeDay": 769,
     "timeWeek": 804,
     "timeMonth": 854,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2022-08-17": 0
+      "2022-08-17": 13
     }
   }
 ]
