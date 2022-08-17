@@ -4,18 +4,20 @@
     "url": "https://sonic.wiki/",
     "icon": "https://favicons.githubusercontent.com/sonic.wiki",
     "slug": "sonicpedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1102,
-    "timeDay": 1127,
-    "timeWeek": 1096,
-    "timeMonth": 1102,
-    "timeYear": 1102,
-    "dailyMinutesDown": {}
+    "time": 1103,
+    "timeDay": 1139,
+    "timeWeek": 1097,
+    "timeMonth": 1103,
+    "timeYear": 1103,
+    "dailyMinutesDown": {
+      "2022-08-17": 0
+    }
   },
   {
     "name": "索尼克百科 Action API",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 773,
-    "timeDay": 707,
-    "timeWeek": 745,
-    "timeMonth": 773,
-    "timeYear": 773,
+    "time": 772,
+    "timeDay": 698,
+    "timeWeek": 739,
+    "timeMonth": 772,
+    "timeYear": 772,
     "dailyMinutesDown": {}
   },
   {
@@ -47,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 215,
-    "timeWeek": 216,
+    "timeDay": 208,
+    "timeWeek": 215,
     "timeMonth": 216,
     "timeYear": 216,
     "dailyMinutesDown": {}
@@ -58,17 +60,19 @@
     "url": "https://sonic.wiki/api.php?action=visualeditor&format=json&paction=parse&page=Sonic",
     "icon": "https://favicons.githubusercontent.com/sonic.wiki",
     "slug": "parsoid",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 856,
-    "timeDay": 784,
-    "timeWeek": 811,
-    "timeMonth": 856,
-    "timeYear": 856,
-    "dailyMinutesDown": {}
+    "time": 854,
+    "timeDay": 769,
+    "timeWeek": 804,
+    "timeMonth": 854,
+    "timeYear": 854,
+    "dailyMinutesDown": {
+      "2022-08-17": 0
+    }
   }
 ]
