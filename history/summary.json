@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/sonic.wiki",
     "slug": "sonicpedia",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 1345,
-    "timeDay": 1397,
-    "timeWeek": 1688,
-    "timeMonth": 1575,
+    "timeDay": 1339,
+    "timeWeek": 1648,
+    "timeMonth": 1574,
     "timeYear": 1345,
     "dailyMinutesDown": {
       "2022-08-20": 33
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 907,
-    "timeDay": 956,
-    "timeWeek": 973,
-    "timeMonth": 1023,
+    "timeDay": 876,
+    "timeWeek": 946,
+    "timeMonth": 1024,
     "timeYear": 907,
     "dailyMinutesDown": {
       "2022-08-20": 31
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 270,
-    "timeDay": 288,
-    "timeWeek": 297,
-    "timeMonth": 318,
+    "timeDay": 280,
+    "timeWeek": 291,
+    "timeMonth": 317,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2022-08-20": 16
@@ -71,8 +71,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 944,
-    "timeDay": 1028,
-    "timeWeek": 999,
+    "timeDay": 945,
+    "timeWeek": 969,
     "timeMonth": 1013,
     "timeYear": 944,
     "dailyMinutesDown": {
