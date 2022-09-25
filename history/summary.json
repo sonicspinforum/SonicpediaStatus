@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1350,
-    "timeDay": 1382,
-    "timeWeek": 1479,
-    "timeMonth": 1575,
+    "timeDay": 1345,
+    "timeWeek": 1415,
+    "timeMonth": 1574,
     "timeYear": 1350,
     "dailyMinutesDown": {
       "2022-08-20": 33
@@ -24,18 +24,19 @@
     "url": "https://sonic.wiki/api.php?action=query&prop=info&titles=Sonic",
     "icon": "https://favicons.githubusercontent.com/sonic.wiki",
     "slug": "action-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 912,
-    "timeDay": 1052,
+    "timeDay": 1066,
     "timeWeek": 959,
-    "timeMonth": 1019,
+    "timeMonth": 1021,
     "timeYear": 912,
     "dailyMinutesDown": {
+      "2022-09-25": 0,
       "2022-08-20": 31
     }
   },
@@ -51,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 271,
-    "timeDay": 286,
-    "timeWeek": 294,
-    "timeMonth": 300,
+    "timeDay": 277,
+    "timeWeek": 291,
+    "timeMonth": 299,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2022-08-20": 16
@@ -70,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 945,
-    "timeDay": 930,
-    "timeWeek": 964,
+    "time": 944,
+    "timeDay": 902,
+    "timeWeek": 959,
     "timeMonth": 989,
-    "timeYear": 945,
+    "timeYear": 944,
     "dailyMinutesDown": {
       "2022-08-20": 28,
       "2022-08-17": 47
