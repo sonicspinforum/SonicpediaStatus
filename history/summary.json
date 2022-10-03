@@ -2,7 +2,7 @@
   {
     "name": "索尼克百科 Sonicpedia",
     "url": "https://sonic.wiki/",
-    "icon": "https://favicons.githubusercontent.com/sonic.wiki",
+    "icon": "https://icons.duckduckgo.com/ip3/sonic.wiki.ico",
     "slug": "sonicpedia",
     "status": "up",
     "uptime": "99.97%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1367,
-    "timeDay": 1356,
-    "timeWeek": 1536,
-    "timeMonth": 1574,
-    "timeYear": 1367,
+    "time": 1368,
+    "timeDay": 1457,
+    "timeWeek": 1552,
+    "timeMonth": 1579,
+    "timeYear": 1368,
     "dailyMinutesDown": {
       "2022-08-20": 33
     }
@@ -22,7 +22,7 @@
   {
     "name": "索尼克百科 Action API",
     "url": "https://sonic.wiki/api.php?action=query&prop=info&titles=Sonic",
-    "icon": "https://favicons.githubusercontent.com/sonic.wiki",
+    "icon": "https://icons.duckduckgo.com/ip3/sonic.wiki.ico",
     "slug": "action-api",
     "status": "up",
     "uptime": "99.97%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 916,
-    "timeDay": 1073,
-    "timeWeek": 955,
-    "timeMonth": 1026,
-    "timeYear": 916,
+    "time": 931,
+    "timeDay": 2079,
+    "timeWeek": 1110,
+    "timeMonth": 1065,
+    "timeYear": 931,
     "dailyMinutesDown": {
       "2022-08-20": 31
     }
@@ -42,7 +42,7 @@
   {
     "name": "索尼克百科 REST API",
     "url": "https://sonic.wiki/rest.php/v1/page/Sonic",
-    "icon": "https://favicons.githubusercontent.com/sonic.wiki",
+    "icon": "https://icons.duckduckgo.com/ip3/sonic.wiki.ico",
     "slug": "rest-api",
     "status": "up",
     "uptime": "99.99%",
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 273,
-    "timeDay": 286,
-    "timeWeek": 291,
-    "timeMonth": 299,
+    "timeDay": 304,
+    "timeWeek": 293,
+    "timeMonth": 300,
     "timeYear": 273,
     "dailyMinutesDown": {
       "2022-08-20": 16
@@ -62,7 +62,7 @@
   {
     "name": "索尼克百科 Parsoid",
     "url": "https://sonic.wiki/api.php?action=visualeditor&format=json&paction=parse&page=Sonic",
-    "icon": "https://favicons.githubusercontent.com/sonic.wiki",
+    "icon": "https://icons.duckduckgo.com/ip3/sonic.wiki.ico",
     "slug": "parsoid",
     "status": "up",
     "uptime": "99.93%",
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 949,
-    "timeDay": 916,
-    "timeWeek": 992,
-    "timeMonth": 989,
+    "timeDay": 941,
+    "timeWeek": 982,
+    "timeMonth": 991,
     "timeYear": 949,
     "dailyMinutesDown": {
       "2022-08-20": 28,
