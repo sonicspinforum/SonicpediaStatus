@@ -1,7 +1,7 @@
 url: https://sonic.wiki/api.php?action=query&prop=info&titles=Sonic
 status: up
 code: 200
-responseTime: 1326
-lastUpdated: 2022-10-10T21:06:32.933Z
+responseTime: 1280
+lastUpdated: 2022-10-10T22:07:40.128Z
 startTime: Tue Jul 19 2022 17:11:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
